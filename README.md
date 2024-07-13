@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React and Vue.js**
 
-- 👨‍💻 All of my projects are available on [My website](https://komlan-roland-portofolio.netlify.app)
+- 👨‍💻 All of my projects are available on [My website](https://komlan-roland-portofolio.netlify.app){:target="_blank"}
 
 - 💬 Ask me about **HTML and CSS**
 - 📄 Know about my experiences [Download my resume](https://komlan-roland-portofolio.netlify.app/curriculum%20vitae.pdf)
